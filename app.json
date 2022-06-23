@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "inshorts-clone",
-    "slug": "inshorts-clone",
-    "version": "1.0.0",
+    "name": "News Delivery",
+    "slug": "deliveryNews",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -20,9 +20,14 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.news.delivery",
+      "version": "1.0.0",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
+      },
+    "config": {
+        "googleMobileAdsAppId": "ca-app-pub-3737703030837827~7132646685"
       }
     },
     "web": {
