@@ -1,6 +1,6 @@
 # News-Dilevery-opensource
 
-![News Delivery](https://raw.githubusercontent.com/nababrata12/News-Dilevery-opensource/master/Assets/banner.png)
+![News Delivery](https://scontent.fshl1-1.fna.fbcdn.net/v/t45.1600-4/279513034_23850153714050442_8030441544581821010_n.png?stp=cp0_dst-jpg_p526x296_q90_spS444&_nc_cat=103&ccb=1-7&_nc_sid=e84a38&_nc_ohc=tDBUGLV-OaUAX_Ud2Vi&_nc_ht=scontent.fshl1-1.fna&oh=00_AT8hf886N4rW-gb1I3QE4XF-4-GBSLVgoe9t5HDhA6goxA&oe=62B99A0Cx)
 
 News Delivery is a news app that selects latest and best news from multiple national and international sources and summarises them to present in a short and crisp 60 words or less format, personalized for you, in English. All summarised stories contain only headlines and facts, no opinions, to help you stay informed of the current affairs. Whether it’s the latest government policies or shakeups in bollywood, we get them covered and delivered super fast! Get updated with the latest news and current affairs in a jiffy!
 
